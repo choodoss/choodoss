@@ -6,9 +6,13 @@ Full Stack Developer
 
 Web developer who successfully completed the Full Stack Developer course at GoIT, where I gained in-depth knowledge of HTML, CSS, JavaScript, React, and Node.js during 10 months of training. Throughout my education, I actively participated in group projects and took on various roles. In two projects, I was entrusted with team lead responsibilities, where I coordinated team efforts and ensured successful execution. Additionally, in one project, I acted as a project manager (Scrum Master), implementing Scrum methodology and overseeing project development. I have a passion for programming and enjoy tackling complex challenges. I constantly strive to enhance my skills and leverage new technologies to achieve better results in my work. I am seeking opportunities to grow in web development and contribute to high-quality projects. I would be glad to discuss collaboration opportunities and answer any questions. Thanks!
 
-*   🌍  I'm based in Bucha, Kyiv region, Ukraine.
-*   ✉️  You can contact me at [dimkakhomenko@gmail.com](mailto:dimkakhomenko@gmail.com)
-*   🤝  I'm open to collaborating on web development and contribute to high-quality projects
+* 🌍  I'm based in Bucha, Kyiv region, Ukraine.
+* ✉️  You can contact me at [dimkakhomenko@gmail.com](mailto:dimkakhomenko@gmail.com)
+* 🤝  I'm open to collaborating on web development and contribute to high-quality projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -18,5 +22,14 @@ Web developer who successfully completed the Full Stack Developer course at GoIT
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
- <p align="left"><a href="https://discord.com/users/choodoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/choodoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/dmytro-khomenko-97b4b643/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   </p>
 
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/choodoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/choodoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmytro-khomenko-97b4b643/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/choodoss"><img src="https://github-readme-stats.vercel.app/api?username=choodoss&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="choodoss's GitHub stats" /></a>
